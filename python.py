@@ -1,4 +1,3 @@
 print("Hii Hello")
-print("Good eve")
-print("ok done!")
+print("Good Morning")
 print("Its saturday")
